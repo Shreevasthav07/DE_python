@@ -4,8 +4,8 @@ My learning repository for Python and Data Engineering.
 
 ## Progress
 
-- [X] Python Fundamentals
-- [ ] Control Flow
+- [x] Python Fundamentals
+- [x] Control Flow
 - [ ] Data Structures
 - [ ] Functions
 - [ ] File Handling
