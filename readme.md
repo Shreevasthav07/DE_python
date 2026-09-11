@@ -4,7 +4,7 @@ My learning repository for Python and Data Engineering.
 
 ## Progress
 
-- [ ] Python Fundamentals
+- [X] Python Fundamentals
 - [ ] Control Flow
 - [ ] Data Structures
 - [ ] Functions
